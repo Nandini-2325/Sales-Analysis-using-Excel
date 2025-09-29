@@ -1,46 +1,73 @@
 # Sales-Analysis-using-Excel
-# 📊 Sales Dataset Analysis with Excel
+# 📊 Sales Dataset Analysis (Excel)
 
-## 🔍 Overview
-This project involves the analysis of a **sales dataset** using **Microsoft Excel** to uncover insights about sales performance, customer behavior, and product trends. The dataset includes **transaction details, customer demographics, product information, and commissions** for 2023 and 2024.  
+## 🔎 Project Overview
+This project demonstrates my ability to **clean, analyze, and visualize sales data** using **Microsoft Excel**. The dataset contains sales transactions, and I leveraged a variety of Excel features to perform calculations, build summaries, and create interactive reports.  
 
-Key dataset columns include:  
-- `Transaction ID`  
-- `Date` (Day, Month, Year)  
-- `Customer ID`, `Gender`, `Age`, `Generation`  
-- `Product Category`, `Quantity`, `Price per Unit`  
-- `Total Sales`, `Commission 2023`, `Commission 2024`  
+The objective of this project was to transform raw data into meaningful insights that support **data-driven decision-making**.  
 
-The analysis focuses on **sales trends, top products, revenue generation, and commission analysis** using Excel’s advanced features.
+---
 
-## 💡 Key Features & Skills Demonstrated
-- **🧩 Cell Referencing:** Used **relative and absolute references** for dynamic calculations across sheets.  
-- **🧮 Formulas & Functions:** Applied **SUM, IF, SUMIF, AVERAGE, AVERAGEIF**, and **user-defined formulas** to calculate total sales, average purchase, commissions, and other metrics.  
-- **🎨 Conditional Formatting:** Highlighted high-value sales, top customers, and product categories to quickly identify trends and anomalies.  
-- **📈 Pivot Tables & Charts:** Summarized large datasets to analyze **monthly sales, product category performance, and customer demographics**.  
-- **🎛️ Slicers:** Enabled interactive filtering by **year, month, product category, and customer segment** for quick insights.  
-- **📅 Date Analysis:** Extracted trends based on **Day, Month, Year** to track seasonal and monthly sales patterns.  
-- **👥 Customer Analysis:** Evaluated sales by **gender, age, and generation** to identify target customer groups.  
-- **💹 Commission Analysis:** Compared **Commission 2023 vs Commission 2024** to track performance improvements.
+## 🛠️ Skills Demonstrated
 
-## 📊 Insights
-- 🏆 Identified **top-selling product categories** and high-value customers.  
-- 📅 Analyzed **monthly and seasonal sales trends** for revenue planning.  
-- 👥 Recognized **customer segments driving sales**, including gender, age group, and generation.  
-- 💡 Evaluated **commission trends** to identify high-performing sales periods and staff incentives.  
-- 📈 Provided actionable insights for **business strategy, inventory management, and marketing campaigns**.
+### 1️⃣ Cell Referencing
+- 🔗 Applied **relative, absolute, and mixed referencing** to build dynamic formulas.  
+- ✔️ Ensured consistency in calculations across multiple rows and columns.  
 
-## 🛠️ Tools & Skills
-- Microsoft Excel (Advanced)  
-- Data Cleaning & Preparation  
-- Data Analysis & Visualization  
-- Pivot Tables, Charts, and Slicers  
-- Conditional Formatting  
-- Reporting & Dashboard Creation  
-- Business & Revenue Analysis  
+### 2️⃣ Functions & Formulas
+- ➕ **Basic functions**: `SUM`, `AVERAGE`, `COUNT` for quick summaries.  
+- 🎯 **Conditional functions**:  
+  - 📌 `SUMIF` & `SUMIFS` – calculated sales totals by region, product, and date range.  
+  - 📊 `AVERAGEIF` & `AVERAGEIFS` – computed average order values under specific conditions.  
+- 🧮 **User-defined formulas** – created custom calculations for unique business rules.  
+- 🎨 **Conditional Formatting** – highlighted trends, top/bottom performers, and outliers for better interpretation.  
 
-## 🚀 Future Enhancements
-- Integrate **Power Query or Power BI** for automated dashboards.  
-- Use **forecasting models** to predict future sales trends.  
-- Link multiple datasets for **comprehensive business insights**.  
+### 3️⃣ Pivot Tables & Interactive Dashboards
+- 📈 Built **Pivot Tables** to analyze sales by product category, region, and customer segment.  
+- 📊 Created **Pivot Charts** to visualize key KPIs (revenue trends, top products, regional performance).  
+- 🖱️ Used **Slicers** for interactive filtering, allowing end-users to drill down into the data with ease.  
+
+---
+
+## 📈 Key Insights
+- 🏆 Identified top-performing products and regions driving revenue.  
+- 📅 Highlighted seasonal sales patterns and trends over time.  
+- ⚡ Provided managers with a **simple, interactive dashboard** for quick decision-making.  
+
+---
+
+## 🧰 Tools Used
+- 💻 Microsoft Excel (Data Cleaning, Analysis, and Visualization)  
+
+---
+
+## 📂 Dataset Columns
+The sales dataset includes the following columns:
+
+- 🆔 **Transaction ID** – Unique identifier for each sales transaction  
+- 📅 **Day / Month / Year / Date** – Transaction date details  
+- 🙍 **Customer ID** – Unique identifier for customers  
+- 🚻 **Gender** – Customer gender  
+- 🎂 **Age** – Age of customer  
+- 👨‍👩‍👧 **Generation** – Customer generation group (e.g., Gen Z, Millennials)  
+- 🛒 **Product Category** – Category of product sold  
+- 🔢 **Quantity** – Number of units sold  
+- 💲 **Price per Unit** – Selling price of each unit  
+- 💰 **Total Sales** – Total sales value (`Quantity × Price per Unit`)  
+- 🏦 **Commission 2023** – Commission earned for the year 2023  
+- 🏦 **Commission 2024** – Commission earned for the year 2024  
+<img width="1495" height="188" alt="image" src="https://github.com/user-attachments/assets/e2128c5f-ce08-4cae-9349-6397956e9889" />
+
+---
+
+## ✅ Outcome
+This project showcases my ability to turn raw sales data into **actionable insights** using Excel. It highlights my expertise in:  
+
+- **Formulas & Functions**  
+- **Cell Referencing**  
+- **Conditional Logic**  
+- **Pivot Table Analysis**  
+- **Dashboard Creation**  
+  
+<img width="762" height="457" alt="image" src="https://github.com/user-attachments/assets/87bc4bb2-cb1e-4f53-aa64-c31222df3cd7" />
 
