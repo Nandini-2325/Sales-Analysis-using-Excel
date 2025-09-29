@@ -56,7 +56,8 @@ The sales dataset includes the following columns:
 - 💰 **Total Sales** – Total sales value (`Quantity × Price per Unit`)  
 - 🏦 **Commission 2023** – Commission earned for the year 2023  
 - 🏦 **Commission 2024** – Commission earned for the year 2024  
-<img width="1495" height="188" alt="image" src="https://github.com/user-attachments/assets/e2128c5f-ce08-4cae-9349-6397956e9889" />
+  <img width="1506" height="136" alt="image" src="https://github.com/user-attachments/assets/af7073ef-41ef-416f-af8b-33bb2841a313" />
+
 
 ---
 
